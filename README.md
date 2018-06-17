@@ -1,6 +1,8 @@
 ## Build a realtime table with DataTables and Nest.js
 
-A tutorial to showcase realtime functionality of a dataTable using Nest.js and Pusher. More details [here]().
+A tutorial to showcase realtime functionality of a dataTable using Nest.js and Pusher. 
+
+[View tutorial](https://pusher.com/tutorials/realtime-table-datatables-nestjs)
 
 ## Getting Started
 
