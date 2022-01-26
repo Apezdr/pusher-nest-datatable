@@ -8,7 +8,7 @@ A tutorial to showcase realtime functionality of a dataTable using Nest.js and P
 
 ### Clone the repository
 ```bash
-$ git clone https://github.com/christiannwamba/pusher-nest-datatable.git
+$ git clone https://github.com/Apezdr/pusher-nest-datatable.git
 ```
 
 ### Change directory
